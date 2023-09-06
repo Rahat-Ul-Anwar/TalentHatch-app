@@ -1,0 +1,269 @@
+[
+    {
+      "job_id": "123456789",
+      "company_logo_url": "https://www.examplejobboard.com/images/techsolutions_logo.png",
+      "title": "Software Engineer",
+      "company_name": "Tech Solutions Inc.",
+      "location": "San Francisco, CA",
+      "job_type": "Full-Time",
+      "salary": "$90,000 - $120,000 per year",
+      "job_description": "Tech Solutions Inc. is seeking a talented Software Engineer to join our team. The ideal candidate will have experience with web application development using modern frameworks and a strong passion for technology.",
+      "job_responsibilities": [
+        "Develop and maintain web applications using Python, JavaScript, and SQL.",
+        "Collaborate with cross-functional teams to design and implement new features.",
+        "Troubleshoot and debug issues, and optimize application performance.",
+        "Participate in code reviews and contribute to the team's technical discussions."
+      ],
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experience_requirements": "2+ years of experience in software development",
+      "phone": "+1 (123) 456-7890",
+      "email": "hr@techsolutions.com",
+      "address": {
+        "street": "123 Tech Avenue",
+        "city": "San Francisco",
+        "state": "CA",
+        "postal_code": "94101"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/123456789",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "987654321",
+      "company_logo_url": "https://www.examplejobboard.com/images/acmecorp_logo.png",
+      "title": "Marketing Manager",
+      "company_name": "Acme Corporation",
+      "location": "New York, NY",
+      "job_type": "Full-Time",
+      "salary": "$80,000 - $100,000 per year",
+      "job_description": "Acme Corporation is looking for a Marketing Manager to lead our marketing team. The ideal candidate will have experience in digital marketing strategies and team management.",
+      "job_responsibilities": [
+        "Develop and execute digital marketing campaigns to increase brand visibility.",
+        "Manage a team of marketing professionals and coordinate marketing initiatives.",
+        "Analyze marketing data and report on campaign performance.",
+        "Collaborate with cross-functional teams to align marketing strategies with business goals."
+      ],
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experience_requirements": "5+ years of marketing experience, including 2+ years in a managerial role",
+      "phone": "+1 (555) 123-4567",
+      "email": "hr@acmecorp.com",
+      "address": {
+        "street": "456 Marketing Street",
+        "city": "New York",
+        "state": "NY",
+        "postal_code": "10001"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/987654321",
+      "remote_or_onsite": "Remote"
+    },
+    {
+      "job_id": "555555555",
+      "company_logo_url": "https://www.examplejobboard.com/images/techco_logo.png",
+      "title": "Data Analyst",
+      "company_name": "TechCo Ltd.",
+      "location": "Los Angeles, CA",
+      "job_type": "Contract",
+      "salary": "$70,000 - $90,000 per year",
+      "job_description": "TechCo Ltd. is hiring a Data Analyst to work on data-driven projects. The role involves data analysis, visualization, and reporting.",
+      "job_responsibilities": [
+        "Analyze large datasets to extract valuable insights.",
+        "Create data visualizations and reports for stakeholders.",
+        "Collaborate with data engineering teams to ensure data quality and accuracy."
+      ],
+      "educational_requirements": "Bachelor's degree in Data Science or related field",
+      "experience_requirements": "1-2 years of experience in data analysis",
+      "phone": "+1 (777) 555-1234",
+      "email": "hr@techco.com",
+      "address": {
+        "street": "789 Data Drive",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postal_code": "90001"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/555555555",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "999999999",
+      "company_logo_url": "https://www.examplejobboard.com/images/healthcare_logo.png",
+      "title": "Registered Nurse",
+      "company_name": "Healthcare Solutions LLC",
+      "location": "Chicago, IL",
+      "job_type": "Part-Time",
+      "salary": "$50 - $60 per hour",
+      "job_description": "Healthcare Solutions LLC is looking for a Registered Nurse to provide compassionate patient care.",
+      "job_responsibilities": [
+        "Administer medications and treatments to patients.",
+        "Monitor and assess patient conditions and report changes to the medical team.",
+        "Provide emotional support and education to patients and their families."
+      ],
+      "educational_requirements": "Bachelor's degree in Nursing and RN license",
+      "experience_requirements": "2+ years of nursing experience",
+      "phone": "+1 (888) 123-4567",
+      "email": "hr@healthcaresolutions.com",
+      "address": {
+        "street": "456 Healthcare Lane",
+        "city": "Chicago",
+        "state": "IL",
+        "postal_code": "60601"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/999999999",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "777777777",
+      "company_logo_url": "https://www.examplejobboard.com/images/financecorp_logo.png",
+      "title": "Financial Analyst",
+      "company_name": "FinanceCorp Inc.",
+      "location": "Houston, TX",
+      "job_type": "Full-Time",
+      "salary": "$75,000 - $90,000 per year",
+      "job_description": "FinanceCorp Inc. is seeking a Financial Analyst to analyze financial data and provide insights for strategic decision-making.",
+      "job_responsibilities": [
+        "Analyze financial statements and trends.",
+        "Prepare financial reports and forecasts.",
+        "Collaborate with finance teams to support budgeting and planning."
+      ],
+      "educational_requirements": "Bachelor's degree in Finance or related field",
+      "experience_requirements": "3+ years of financial analysis experience",
+      "phone": "+1 (333) 555-7890",
+      "email": "hr@financecorp.com",
+      "address": {
+        "street": "123 Finance Street",
+        "city": "Houston",
+        "state": "TX",
+        "postal_code": "77001"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/777777777",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "666666666",
+      "company_logo_url": "https://www.examplejobboard.com/images/edtech_logo.png",
+      "title": "Educational Content Writer",
+      "company_name": "EdTech Innovations",
+      "location": "Boston, MA",
+      "job_type": "Remote",
+      "salary": "$60,000 - $75,000 per year",
+      "job_description": "EdTech Innovations is seeking an Educational Content Writer to create engaging educational materials for online learning platforms.",
+      "job_responsibilities": [
+        "Research and develop educational content for various subjects.",
+        "Adapt content for different grade levels and learning styles.",
+        "Collaborate with instructional designers and educators."
+      ],
+      "educational_requirements": "Bachelor's degree in Education, English, or related field",
+      "experience_requirements": "2+ years of content writing experience",
+      "phone": "+1 (888) 666-1234",
+      "email": "hr@edtechinnovations.com",
+      "address": {
+        "street": "789 Education Road",
+        "city": "Boston",
+        "state": "MA",
+        "postal_code": "02101"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/666666666",
+      "remote_or_onsite": "Remote"
+    },
+    {
+      "job_id": "444444444",
+      "company_logo_url": "https://www.examplejobboard.com/images/designstudio_logo.png",
+      "title": "Graphic Designer",
+      "company_name": "Design Studio Co.",
+      "location": "Seattle, WA",
+      "job_type": "Full-Time",
+      "salary": "$65,000 - $80,000 per year",
+      "job_description": "Design Studio Co. is seeking a creative Graphic Designer to produce visually appealing designs for clients.",
+      "job_responsibilities": [
+        "Create graphic designs for marketing materials, websites, and branding projects.",
+        "Collaborate with clients to understand design requirements and preferences.",
+        "Present design concepts and incorporate feedback."
+      ],
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experience_requirements": "3+ years of graphic design experience",
+      "phone": "+1 (206) 444-5678",
+      "email": "hr@designstudioco.com",
+      "address": {
+        "street": "123 Design Lane",
+        "city": "Seattle",
+        "state": "WA",
+        "postal_code": "98101"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/444444444",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "222222222",
+      "company_logo_url": "https://www.examplejobboard.com/images/healthtech_logo.png",
+      "title": "Healthcare IT Specialist",
+      "company_name": "HealthTech Solutions",
+      "location": "Dallas, TX",
+      "job_type": "Full-Time",
+      "salary": "$80,000 - $100,000 per year",
+      "job_description": "HealthTech Solutions is seeking a Healthcare IT Specialist to implement and support healthcare technology solutions.",
+      "job_responsibilities": [
+        "Implement and configure healthcare information systems.",
+        "Provide technical support to healthcare professionals.",
+        "Collaborate with clients to understand their technology needs."
+      ],
+      "educational_requirements": "Bachelor's degree in Health Informatics or related field",
+      "experience_requirements": "2+ years of healthcare IT experience",
+      "phone": "+1 (999) 222-5555",
+      "email": "hr@healthtechsolutions.com",
+      "address": {
+        "street": "456 HealthTech Drive",
+        "city": "Dallas",
+        "state": "TX",
+        "postal_code": "75201"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/222222222",
+      "remote_or_onsite": "Onsite"
+    },
+    {
+      "job_id": "888888888",
+      "company_logo_url": "https://www.examplejobboard.com/images/environment_logo.png",
+      "title": "Environmental Scientist",
+      "company_name": "EcoSolutions Inc.",
+      "location": "Denver, CO",
+      "job_type": "Full-Time",
+      "salary": "$70,000 - $90,000 per year",
+      "job_description": "EcoSolutions Inc. is hiring an Environmental Scientist to conduct research and assessments for environmental projects.",
+      "job_responsibilities": [
+        "Conduct field research and collect environmental data.",
+        "Analyze data and prepare environmental impact assessments.",
+        "Collaborate with regulatory agencies and project stakeholders."
+      ],
+      "educational_requirements": "Bachelor's degree in Environmental Science or related field",
+      "experience_requirements": "3+ years of environmental science experience",
+      "phone": "+1 (303) 888-1234",
+      "email": "hr@ecosolutions.com",
+      "address": {
+        "street": "123 Eco Lane",
+        "city": "Denver",
+        "state": "CO",
+        "postal_code": "80201"
+      },
+      "posting_date": "2023-09-06",
+      "expiration_date": "2023-10-06",
+      "application_link": "https://www.examplejobboard.com/apply/888888888",
+      "remote_or_onsite": "Onsite"
+    }
+  ]
+  
+  
+  
+  
