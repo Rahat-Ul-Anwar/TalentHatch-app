@@ -1,10 +1,10 @@
-# TalentHatch-app
+## TalentHatch-app
   ### live link []
 
-## CSS Framework --- Tailwind
+### CSS Framework --- Tailwind
 [https://tailwindcss.com/]
 
-## Tailwind Component Library ---DaisyUI
+### Tailwind Component Library ---DaisyUI
 [https://daisyui.com/]
 
 
