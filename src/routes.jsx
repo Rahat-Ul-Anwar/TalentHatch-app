@@ -4,6 +4,7 @@ import ErrorPage from "./components/ErrorPage/ErrorPage";
 import Home from "./components/Home/Home/Home";
 import AppliedJobs from "./components/AppliedJobs/AppliedJobs";
 import Blogs from "./components/Blogs/Blogs";
+import Statistics from "./components/Statistics/Statistics";
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ export const router = createBrowserRouter([
       {
         path: "/jobs",
         element: <AppliedJobs></AppliedJobs>,
+      },
+      {
+        path: "/statistics",
+        element: <Statistics></Statistics>,
       },
       {
         path: "/blogs",
