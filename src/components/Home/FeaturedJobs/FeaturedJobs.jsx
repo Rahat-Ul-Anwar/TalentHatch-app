@@ -21,6 +21,9 @@ const FeaturedJobs = () => {
 
                 }
             </div>
+            <div className="w-44 mx-auto">
+            <button className="btn btn-active btn-primary">See All Jobs</button>
+              </div>
         </div>
     );
 };
