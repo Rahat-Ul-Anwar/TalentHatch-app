@@ -1,0 +1,94 @@
+ [
+      {
+        "student_id": 1,
+        "name": "Student 1",
+        "marks": {
+          "Mathematics": 85,
+          "Physics": 78,
+          "Chemistry": 90
+        }
+      },
+      {
+        "student_id": 2,
+        "name": "Student 2",
+        "marks": {
+          "Mathematics": 92,
+          "Physics": 85,
+          "Chemistry": 88
+        }
+      },
+      {
+        "student_id": 3,
+        "name": "Student 3",
+        "marks": {
+          "Mathematics": 78,
+          "Physics": 92,
+          "Chemistry": 80
+        }
+      },
+      {
+        "student_id": 4,
+        "name": "Student 4",
+        "marks": {
+          "Mathematics": 89,
+          "Physics": 77,
+          "Chemistry": 95
+        }
+      },
+      {
+        "student_id": 5,
+        "name": "Student 5",
+        "marks": {
+          "Mathematics": 94,
+          "Physics": 91,
+          "Chemistry": 87
+        }
+      },
+      {
+        "student_id": 6,
+        "name": "Student 6",
+        "marks": {
+          "Mathematics": 80,
+          "Physics": 86,
+          "Chemistry": 92
+        }
+      },
+      {
+        "student_id": 7,
+        "name": "Student 7",
+        "marks": {
+          "Mathematics": 87,
+          "Physics": 79,
+          "Chemistry": 84
+        }
+      },
+      {
+        "student_id": 8,
+        "name": "Student 8",
+        "marks": {
+          "Mathematics": 91,
+          "Physics": 88,
+          "Chemistry": 89
+        }
+      },
+      {
+        "student_id": 9,
+        "name": "Student 9",
+        "marks": {
+          "Mathematics": 76,
+          "Physics": 82,
+          "Chemistry": 75
+        }
+      },
+      {
+        "student_id": 10,
+        "name": "Student 10",
+        "marks": {
+          "Mathematics": 83,
+          "Physics": 90,
+          "Chemistry": 86
+        }
+      }
+    ]
+  
+  

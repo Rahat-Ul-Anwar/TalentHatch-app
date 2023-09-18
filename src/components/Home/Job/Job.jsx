@@ -1,7 +1,13 @@
+import {  Link } from "react-router-dom";
 
 
-const Jobs = ({ job }) => {
-    const { job_id, company_logo_url,title, company_name,location,job_type,salary, remote_or_onsite } = job;
+const Job = ({ job }) => {
+    const { job_id, company_logo_url, title, company_name, location, job_type, salary, remote_or_onsite } = job;
+   
+
+  
+
+   
     return (
         <div className="border rounded-lg p-8">
             <img src={company_logo_url} alt="" className="w-24 h-20 my-4" />
@@ -14,9 +20,12 @@ const Jobs = ({ job }) => {
            
                 <p> Salary : {salary}</p>    
             </div>
+            <Link to={`/job/${job_id}`}>
             <button className="btn btn-active btn-primary">View Details</button>
+            </Link>
+            {/* <button onClick={handleJobDetails} className="btn btn-active btn-primary">View Details</button> */}
         </div>
     );
 };
 
-export default Jobs;
+export default Job;
